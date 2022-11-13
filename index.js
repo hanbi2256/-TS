@@ -1,6 +1,6 @@
-// let 이름: string = "kim";
-// let 나이: number = 50;
-// let 회원들 : string[]=['kim', 'park'];
+let 이름 = "kim";
+let 나이 = 50;
+let 회원들 = ["kim", "park"];
 let 학교 = {
     score: [100, 97, 84],
     teacher: "Phil",
